@@ -44,7 +44,7 @@ public class MyTestCases {
 
 	@Test(priority = 1, enabled = false)
 	public void MyTest() throws InterruptedException {
-//waleed
+
 		int RandomIndexForTheFirstName = rand.nextInt(FirstNames.length);
 
 		int RandomIndexForTheLastName = rand.nextInt(LastNames.length);
